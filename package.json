@@ -1,0 +1,12 @@
+{
+  "name": "mc626-tests",
+  "version": "0.0.0",
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.0.0",
+    "protractor": "^5.1.1",
+    "protractor-jasmine2-screenshot-reporter": "^0.4.0"
+  },
+  "engines": {
+    "node": ">=7.9.0"
+  }
+}
